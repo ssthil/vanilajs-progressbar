@@ -1,0 +1,27 @@
+{
+    "name": "progressbar-javascript",
+    "version": "1.0.0",
+    "description": "Javascript progressbar",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "4.13.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "javascript",
+        "progressbar"
+    ],
+    "author": "Senthil Sivaramakrishnan",
+    "license": "ISC",
+    "bugs": {
+        "url": ""
+    },
+    "homepage": ""
+}
